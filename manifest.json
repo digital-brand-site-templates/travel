@@ -2,6 +2,37 @@
   "category": "travel",
   "templates": [
     {
+      "name": "Blue-ways",
+      "folder": "blue-ways",
+      "version": "2.0.0",
+      "description": "Blue-ways \u2013 static HTML/Bootstrap Travel website template.",
+      "idealFor": [
+        "hotels",
+        "resorts",
+        "lagoon and beach villas",
+        "hotel restaurants"
+      ],
+      "requiredClientInputs": [
+        "hotelName",
+        "logoUrl",
+        "roomTypesAndRates",
+        "bookingEmail",
+        "address",
+        "phone",
+        "restaurantMenu",
+        "socialLinks"
+      ],
+      "preview": "blue-ways/preview.png",
+      "orderNumber": "TVORD74331656",
+      "license": {
+        "templateOrderAmount": 0.0,
+        "creditRemovalPermitted": true,
+        "accountLicense": [
+          "TVORD30331596 Pro \u2014 Lifetime"
+        ]
+      }
+    },
+    {
       "name": "Resortium-Spot",
       "folder": "resortium-spot",
       "version": "1.0.0",

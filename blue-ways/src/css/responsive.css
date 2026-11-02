@@ -1,0 +1,556 @@
+/*
+Template Name: Blueways
+File Name: responsive.css
+Author Name: ThemeVault
+Author URI: http://www.themevault.net/
+License URI: http://www.themevault.net/license/
+*/
+
+/* Landscape phones and smaller */
+
+@media (min-width: 1199px) and (max-width: 1240px) {}
+
+@media (max-width: 1199px) {
+
+}
+
+@media (min-width:1000px) and (max-width:1100px)
+{
+    .tv-blueways {
+        margin-left: 0px;
+        margin-top: 80px;
+        padding: 15px 40px;
+    }
+    #rooms .carousel-control {
+        margin: 20px 0;
+        opacity: 1;
+        top: 100%;
+        width: 25%;
+    }
+    #rooms .carousel-control.right {
+        right: 0;
+    }
+    #rooms .carousel-control.left {
+        left: 0;
+    }
+    .tv-discover-color {
+        background: #2690b7 none repeat scroll 0 0;
+        padding-bottom: 81px;
+    }
+    .btn.btn-room {
+        margin-bottom: 5px;
+    }
+    .tv-spa-desc > h2 {
+        font-size: 20px;
+    }
+    .tv-offspace-100 {
+        margin-top: 65px;
+    }
+    #deal .tv-offspace-bottom-50 {
+        margin-bottom: 30px;
+    }
+    #deal .tv-offspace-50 {
+        margin-top: 30px;
+    }
+    .btn.btn-readmore {
+        margin-top: 25px;
+    }
+    .tv-icon-desc-block > p {
+        font-size: 10px;
+    }
+    .tv-ourbest-icon {
+        margin-top: 50px;
+    }
+}
+
+@media(max-width:992px) and (max-width:999px)
+{
+    .tv-icon-desc-block > p {
+        font-size: 10px;
+    }
+    .tv-blueways {
+        margin-left: 0px;
+        margin-top: 77px;
+        padding: 15px 40px;
+    }
+    #spa .tv-offspace-bottom-50 {
+        margin-bottom: 20px;
+    }
+    #spa .tv-offspace-50 {
+        margin-top: 10px
+    }
+    .tv-spa-desc > h2 {
+        font-size: 21px;
+    }
+    .tv-bottom-navbar-p
+    {
+        margin-bottom: 5px;
+    }
+    .tv-top-navbar-p
+    {
+        margin-top: 5px;
+    }
+    .up-arrow {
+        left: 44%;
+        color:#ffffff !important;
+    }
+    .tv-sm-center
+    {
+        text-align: center;
+    }
+    .tv-offspace-100 {
+        margin-top: 0px;
+    }
+    #deal .tv-offspace-bottom-50 {
+        margin-bottom: 30px;
+    }
+    #deal .tv-offspace-50 {
+        margin-top: 30px;
+    }
+    #rooms .carousel-control {
+        margin: 20px 0;
+        opacity: 1;
+        top: 100%;
+        width: 25%;
+    }
+    #rooms .carousel-control.right {
+        right: 0;
+    }
+    #rooms .carousel-control.left {
+        left: 0;
+    }
+    .tv-banner-caption > h1 {
+        font-size: 2.5em;
+    }
+    .tv-discover-color {
+        background: #2690b7 none repeat scroll 0 0;
+        padding-bottom: 74px;
+    }
+    .dropdown-menu.dropdown-content {
+        z-index:99999;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .tv-blueways {
+        margin-left: 0px;
+        margin-top: 80px;
+        padding: 15px 40px;
+    }
+    .tv-bottom-navbar-p
+    {
+        margin-bottom: 5px;
+    }
+    .tv-top-navbar-p
+    {
+        margin-top: 5px;
+    }
+    .up-arrow {
+        left: 44%;
+        color:#ffffff !important;
+    }
+    .tv-sm-offspace-50
+    {
+        margin-top:50px;
+    }
+    .tv-sm-center
+    {
+        text-align: center;
+    }
+    .tv-offspace-100 {
+        margin-top: 0px;
+    }
+    #deal .tv-offspace-bottom-50 {
+        margin-bottom: 30px;
+    }
+    #deal .tv-offspace-50 {
+        margin-top: 30px;
+    }
+    #rooms .carousel-control {
+        margin: 20px 0;
+        opacity: 1;
+        top: 100%;
+        width: 25%;
+    }
+    #rooms .carousel-control.right {
+        right: 0;
+    }
+    #rooms .carousel-control.left {
+        left: 0;
+    }
+    .tv-banner-caption > h1 {
+        font-size: 2.5em;
+    }
+    .tv-discover-color {
+        background: #2690b7 none repeat scroll 0 0;
+        padding-bottom: 74px;
+    }
+    .dropdown-menu.dropdown-content {
+        z-index:99999;
+    }
+}
+
+@media (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+    .navbar-brand {
+        float: left;
+    }
+    .tv-banner-caption > h1 {
+        font-size: 1.5em;
+    }
+    .up-arrow {
+        left: 48%;
+    }
+    .tv-block-book-title > h3 {
+        margin-top: 10px;
+    }
+    .tv-reservation-part {
+        text-align: center;
+    }
+    .tv-sm-center {
+        text-align: center;
+    }
+    .btn.btn-readmore {
+        margin-bottom: 10px;
+    }
+    .tv-ourbest-desc {
+        margin-top: 10px;
+        text-align: center;
+    }
+    .tv-ourbest-icon {
+        margin-top: 20px;
+    }
+    .tv-offers-desc {
+        margin-top: 20px;
+    }
+    .tv-ourroom-desc > h2 {
+        margin-top: 10px;
+        text-align: center;
+    }
+    #rooms .carousel-control {
+        margin: 20px 0;
+        opacity: 1;
+        top: 100%;
+        width: 25%;
+    }
+    #rooms .carousel-control.right {
+        right: 0;
+    }
+    #rooms .carousel-control.left {
+        left: 0;
+    }
+    #bannersection .carousel-control {
+        margin: 20px 0;
+        opacity: 1;
+        top: 73%;
+        width: 95%;
+    }
+    #bannersection .carousel-control.right {
+        right: 0;
+    }
+    #bannersection .carousel-control.left {
+        left: 0;
+    }
+    #bannersection .left.carousel-control > img {
+        width: 20px;
+    }
+    #bannersection .right.carousel-control > img {
+        width: 20px;
+    }
+    .tv-spa-desc {
+        margin-top: 10px;
+    }
+    .tv-spa-desc > h2 {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    #testimonial .carousel-control {
+        opacity: 1;
+        top:90%;
+        width: 80%;
+    }
+    .tv-footer-desc {
+        text-align: center;
+    }
+    .tv-ourroom-desc > h2 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: transparent;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #ffd400;
+    }
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+        background-color: transparent;
+    }
+    .dropdown-content {
+        top:40px !important;
+        left:200px !important;
+    }
+
+}
+
+@media (max-width: 600px) {
+}
+
+@media (max-width: 500px) {
+    .navbar-brand {
+        float: left;
+    }
+    .tv-banner-caption > h1 {
+        font-size: 1.5em;
+    }
+    .up-arrow {
+        left: 47%;
+    }
+    .tv-block-book-title > h3 {
+        margin-top: 10px;
+    }
+    .tv-reservation-part {
+        text-align: center;
+    }
+    .tv-sm-center {
+        text-align: center;
+    }
+    .btn.btn-readmore {
+        margin-bottom: 10px;
+    }
+    .tv-ourbest-desc {
+        margin-top: 10px;
+        text-align: center;
+    }
+    .tv-ourbest-icon {
+        margin-top: 20px;
+    }
+    .tv-offers-desc {
+        margin-top: 20px;
+    }
+    .tv-ourroom-desc > h2 {
+        margin-top: 10px;
+        text-align: center;
+    }
+    #rooms .carousel-control {
+        margin: 20px 0;
+        opacity: 1;
+        top: 100%;
+        width: 25%;
+    }
+    #rooms .carousel-control.right {
+        right: 0;
+    }
+    #rooms .carousel-control.left {
+        left: 0;
+    }
+    #bannersection .carousel-control {
+        margin: 20px 0;
+        opacity: 1;
+        top: 73%;
+        width: 95%;
+    }
+    #bannersection .carousel-control.right {
+        right: 0;
+    }
+    #bannersection .carousel-control.left {
+        left: 0;
+    }
+    #bannersection .left.carousel-control > img {
+        width: 20px;
+    }
+    #bannersection .right.carousel-control > img {
+        width: 20px;
+    }
+    .tv-spa-desc {
+        margin-top: 10px;
+    }
+    .tv-spa-desc > h2 {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    #testimonial .carousel-control {
+        opacity: 1;
+        top:90%;
+        width: 80%;
+    }
+    .tv-footer-desc {
+        text-align: center;
+    }
+    .tv-ourroom-desc > h2 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: transparent;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #ffd400;
+    }
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+        background-color: transparent;
+    }
+    .dropdown-content {
+        top:40px !important;
+        left:120px !important;
+    }
+    #footer-menu {
+        height: 60px;
+    }
+}
+
+@media (max-width: 400px) {
+    .navbar-brand {
+        float: left;
+    }
+    .visible-xs {
+        text-align: center;
+    }
+    .navbar-toggle {
+        margin-top: 25px;
+    }
+    .btn.btn-tour > img {
+        width: 15px;
+    }
+    .btn.btn-tour {
+        font-size: 10px;
+        margin-bottom: 15px;
+        margin-top: 5px;
+        padding: 5px 10px;
+    }
+    .tv-banner-desc {
+        top: 60%;
+        transform: translateY(-60%);
+    }
+    .tv-banner-caption > h1 {
+        font-size: 1em;
+    }
+    .tv-banner-caption > p {
+        font-size: 10px;
+    }
+    .up-arrow {
+        left: 45%;
+    }
+    .tv-block-book-title > h3 {
+        margin-top: 10px;
+    }
+    .tv-reservation-part {
+        text-align: center;
+    }
+    .tv-sm-center {
+        text-align: center;
+    }
+    .btn.btn-readmore {
+        margin-bottom: 10px;
+    }
+    .tv-reimagined-title
+    {
+        font-size: 25px !important;
+    }
+    .tv-reimagined-title:after
+    {
+        width:20% !important;
+    }
+    .tv-ourbest-desc {
+        margin-top: 10px;
+        text-align: center;
+    }
+    .tv-ourbest-icon {
+        margin-top: 20px;
+    }
+    .tv-offers-desc {
+        margin-top: 20px;
+    }
+    .tv-ourroom-desc > h2 {
+        margin-top: 10px;
+        text-align: center;
+    }
+    #rooms .carousel-control {
+        margin: 40px 0;
+        opacity: 1;
+        top: 100%;
+        width: 60%;
+    }
+    #rooms .btn.btn-room {
+        line-height: 20px;
+    }
+    #rooms .carousel-control.right {
+        right: 0;
+    }
+    #rooms .carousel-control.left {
+        left: 0;
+    }
+    #contact .tv-footer-blueways {
+        padding: 10px 20px;
+    }
+    #contact .navbar-brand {
+        padding: 0;
+    }
+    #bannersection .carousel-control {
+        margin: 20px 0;
+        opacity: 1;
+        top: 73%;
+        width: 95%;
+    }
+    #bannersection .carousel-control.right {
+        right: 0;
+    }
+    #bannersection .carousel-control.left {
+        left: 0;
+    }
+    #bannersection .left.carousel-control > img {
+        width: 20px;
+    }
+    #bannersection .right.carousel-control > img {
+        width: 20px;
+    }
+    .tv-spa-desc {
+        margin-top: 10px;
+    }
+    .tv-spa-desc > h2 {
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    .tv-footer-desc {
+        text-align: center;
+    }
+    .tv-ourroom-desc > h2 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .navbar-default .navbar-toggle {
+        border-color: transparent;
+    }
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #ffd400;
+    }
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+        background-color: transparent;
+    }
+    .tv-visit-title {
+        font-size: 18px !important;
+    }
+    .tv-section-title > h2::after {
+        width: 70%;
+    }
+    .dropdown-content {
+        top:40px !important;
+        left:35px !important;
+    }
+    #footer-menu {
+        height: 60px;
+    }
+    #testimonial .carousel-control {
+        top: 90%;
+    }
+}
+
+
+
+
+
+
+

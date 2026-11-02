@@ -8,4 +8,5 @@ Static website templates for the Travel category.
 
 Preview gallery: https://digital-brand-site-templates.github.io/travel/
 
+- [Blue-ways](blue-ways/)
 - [Resortium-Spot](resortium-spot/)

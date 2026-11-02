@@ -1,0 +1,36 @@
+Blueways — Responsive HTML5 Hotel Reservation Website Template
+==============================================================
+
+Version 2.0 — 2026
+-------------------
+
+- A completely new design, "Chart Room": a nautical-logbook look with
+  Libre Caslon headlines, IBM Plex text and coordinates, chart paper,
+  ink navy and lagoon blue, depth-contour lines, photos framed as chart
+  plates, square buttons and a chart-legend footer with a compass.
+  Every page, header and footer was redesigned; all of the original
+  pages, links and headings remain.
+- A new header: a left navigation column on desktop with a Book a stay
+  button, and a plain top bar with a full menu on tablets and phones.
+- Rebuilt on Bootstrap 5 with every behaviour in plain JavaScript
+  (js/main.js): the three sliders, the gallery lightbox, smooth scrolling
+  and the section highlight in the menu, back-to-top, tabs, accordions
+  and every form. Font Awesome 4 -> 6; all fonts are self-hosted.
+- Four new pages: rooms & villas (six stays with instant filters), room
+  details (photo switcher, particulars, policies and a live price
+  quote), reservations (dates, room, extras, guest details, a running
+  total and a confirmation with a reference) and the restaurant (hours,
+  a tabbed menu and a table-reservation form).
+- Three ready-to-send HTML emails, one per form: contact auto-reply,
+  booking confirmation and table reservation (email-*.html). They adapt
+  to phones.
+- Home page: a check-availability bar under the hero that carries its
+  dates into the reservations page, room slides with particulars and
+  prices, amenities, packages, a ballroom & spa section, a gallery of
+  twelve photos, testimonials, a weekly deal with a live countdown and
+  a working contact form.
+- Real hotel copy replaces the placeholder text on every page, and the
+  element pages (accordions, alerts, buttons, form fields, grid, icons,
+  messages, tabs, typography) are restyled to match.
+- Works from phone to desktop: two columns on tablets, one photo per
+  row in the phone gallery, no sideways scrolling from 320px.
