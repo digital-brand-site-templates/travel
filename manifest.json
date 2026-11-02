@@ -1,11 +1,11 @@
 {
-  "category": "sports-and-travel",
+  "category": "travel",
   "templates": [
     {
       "name": "Resortium-Spot",
       "folder": "resortium-spot",
       "version": "1.0.0",
-      "description": "Resortium-Spot \u2013 static HTML/Bootstrap Sports & Travel website template.",
+      "description": "Resortium-Spot \u2013 static HTML/Bootstrap Travel website template.",
       "idealFor": [
         "resorts",
         "hotels",

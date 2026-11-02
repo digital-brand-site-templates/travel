@@ -1,5 +1,5 @@
 {
-  "name": "tpl-sports-and-travel-resortium-spot",
+  "name": "tpl-travel-resortium-spot",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -12,7 +12,7 @@
     "node": ">=22.0.0"
   },
   "agentMeta": {
-    "category": "sports-and-travel",
+    "category": "travel",
     "idealFor": [
       "resorts",
       "hotels",
